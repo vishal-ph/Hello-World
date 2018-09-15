@@ -1,9 +1,6 @@
 # Hello-World
 Repository-1
 
-This repository contains all the codes that I have completed as part of assignments for various courses including:
--> Data Structures and Algorithms
--> Computational Physics
--> Machine Learning
--> Advanced functional Neuroimaging
-
+This repository contains:
+-> A python implementation of Multi-Class logistic regression and,
+-> Fundamental pre-processing operations performed on fMRI data implemented in R 
